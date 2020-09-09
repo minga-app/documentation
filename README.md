@@ -31,7 +31,7 @@
     - and NoSQL Database
     - Docker-based, orchestrated with Kubernetes
     - independent of region blocking by google 
-- Exposing a public API to access all of 
+- Exposing a public API (grpc, HTTP/2) to access all features of Minga
 - Better geospatial radius search, maps (Mapbox navigation)
 - Fulltext search and geosearch via Elastic search instance
 - Advanced and automatic regulation/calculation of impact points
@@ -40,5 +40,7 @@
 - Making Minga better suited for businesses
     - Direct API connection to ERP Systems
     - advanced tracking and overview of donations and deliveries
-    - Automatic generation of tax reduction certificates
-    - webpage with impact of company (how many tons they saved, ...)
+    - Automatic generation of tax reduction certificates (PDF, CSV)
+    - webpage with impact of company (how many tons they saved, ..
+- gather statistics of total impact (of all users), like total number of donations or tons of food rescued.
+- optimize performance of cloud infrastructure, measure CO2 footprint and sustainability
