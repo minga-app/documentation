@@ -1,1 +1,37 @@
 # roadmap
+
+- MVP: Flutter app running on ios, android and the web
+    - with Firebase and Cloud Functions as the backend
+    - Basic center administration with delivery tracking, inventory and voluntary work shifts
+    - Donation transaction and delivery tracking
+    - Voluntary work: deliveries and center shifts
+    - Benefit: Local offers and distribution centers nearby
+    - Moderation: Product categorization, conflict handling for donations, creation of centers
+    - general Chat
+    - Auth via Phone and Mail
+    - Profile management
+    - Personal Impact board
+    - Firebase security rules
+- Change distribution center of a donation: Switch donations and products between centers
+- Documentation
+- Translation to other languages
+    - Cloud based translation for user-generated content
+    - Baked-in translation for app UI via Remote config
+- Push notifications, Mail notifications, SMS notifications 
+- Accessibility Workshop: Optimizing for handicapped people (screenreader, contrast), optimizing for simplicity of design, optimizing for weak devices and excluded users
+- standalone web app with minimal functionality and backwards-compatibility with older devices 
+- making Minga’s infrastructure vendor-independent
+    - grpc-based API
+    - RabbitMQ for events
+    - and NoSQL Database
+    - Docker-based, orchestrated with Kubernetes
+    - independent of region blocking by google 
+- Exposing a public API to access all of 
+- Advanced and automatic regulation/calculation of impact points
+- Minga for other organizations that need help
+    - give non-profits, municipal organizations the possibility to post voluntary work shifts with equivalent impact points
+- Making Minga better suited for businesses
+    - Direct API connection to ERP Systems
+    - advanced tracking and overview of donations and deliveries
+    - Automatic generation of tax reduction certificates
+    - webpage with impact of company (how many tons they saved, ...)
