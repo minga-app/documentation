@@ -12,12 +12,17 @@
     - Profile management
     - Personal Impact board
     - Firebase security rules
-- Change distribution center of a donation: Switch donations and products between centers
-- Documentation
+    - Terms and Privacy
+- Change distribution center of a donation: Switch donations and products between centers / redistribution of donations between centers
+- Proper onboarding in the app, that explains the concept on registration
+- Technical Documentation of database, architecture, structure, services, security aspects...
 - Translation to other languages
     - Cloud based translation for user-generated content
     - Baked-in translation for app UI via Remote config
+- App CI/CD with Widget tests and Fastlane
 - Push notifications, Mail notifications, SMS notifications 
+- Dark Mode
+- Dynamic links for Admin invitation, Services and food offers
 - Accessibility Workshop: Optimizing for handicapped people (screenreader, contrast), optimizing for simplicity of design, optimizing for weak devices and excluded users
 - standalone web app with minimal functionality and backwards-compatibility with older devices 
 - making Minga’s infrastructure vendor-independent
@@ -27,6 +32,8 @@
     - Docker-based, orchestrated with Kubernetes
     - independent of region blocking by google 
 - Exposing a public API to access all of 
+- Better geospatial radius search, maps (Mapbox navigation)
+- Fulltext search and geosearch via Elastic search instance
 - Advanced and automatic regulation/calculation of impact points
 - Minga for other organizations that need help
     - give non-profits, municipal organizations the possibility to post voluntary work shifts with equivalent value of impact points
