@@ -29,7 +29,7 @@
 - Exposing a public API to access all of 
 - Advanced and automatic regulation/calculation of impact points
 - Minga for other organizations that need help
-    - give non-profits, municipal organizations the possibility to post voluntary work shifts with equivalent impact points
+    - give non-profits, municipal organizations the possibility to post voluntary work shifts with equivalent value of impact points
 - Making Minga better suited for businesses
     - Direct API connection to ERP Systems
     - advanced tracking and overview of donations and deliveries
