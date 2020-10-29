@@ -2,42 +2,43 @@
 
 |Benefit|||
 |---|---|---|
-|Overview|Offers view|Offer detail|
+|Overview|Offers view :white_check_mark:|Offer detail|
 |Centers view|Center detail|
 
 |Donate|||
 |---|---|---|
-|Donations view|Donation form|Donation Statistics|
+|Donations view :white_check_mark:|Donation form :white_check_mark:|Donation Statistics|
 
 |Help|||
 |---|---|---|
-|Shifts view|Shift detail|Application view|
+|Shifts view :white_check_mark:|Shift detail|Application view :white_check_mark:|
 
 |Center|||
 |---|---|---|
-|Donations view|Donation detail|Inventory view|
+|Donations view :white_check_mark:|Donation detail|Inventory view|
 |Statistics view|Offers view|Offers form|
-|Shifts view|Shift form|Settings view|
+|Shifts view|Shift form :white_check_mark:|Settings view :white_check_mark:|
 
 |Moderate|||
 |---|---|---|
-|Product view|Product form|Centers view|
+|Products view :white_check_mark:|Product form :white_check_mark:|Centers view|
 |Centers form|Helpers|Settings view|
 
 |Chat|||
 |---|---|---|
-|Overview|Thread view|Thread form|
+|Overview|Thread view :white_check_mark:|Thread form|
 
 |Impact|||
 |---|---|---|
-|Overview|Statistics view|Statistics monthly view|
+|Overview :white_check_mark:|Statistics view|QR-Code form|
 |Point transfer form|||
 
-|Account|||
+|Generall|||
 |---|---|---|
-|Settings view|Menu view||
+|Account view :white_check_mark:|Menu view :white_check_mark:|Pick location form :white_check_mark:|
+|Pick image form|Pick date form||
 
 ||||
 |---|---|---|
-|Login form|Registration form|Onboard form|
-|phone verification form|||
+|Login form :white_check_mark:|Registration form :white_check_mark:|Onboard form :white_check_mark:|
+|phone verification form :white_check_mark:|||
