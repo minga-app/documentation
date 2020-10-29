@@ -25,4 +25,4 @@
 |Pick image form|Pick date form||
 |**Onboarding**|||
 |Login form :white_check_mark:|Registration form :white_check_mark:|Onboard form :white_check_mark:|
-|phone verification form :white_check_mark:|||
+|phone verification form :white_check_mark:|Export data form||
